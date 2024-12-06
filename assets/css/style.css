@@ -1803,7 +1803,8 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   main {
-    max-width: 1200px;
+    /* max-width: 1200px; */
+    min-width: 90%;
     margin-inline: auto;
     display: flex;
     justify-content: center;
